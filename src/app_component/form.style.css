@@ -1,0 +1,14 @@
+form {
+    margin-top: 6rem;
+  }
+  
+  form input[name="city"],
+  form input[name="country"] {
+    font-size: 2000;
+    font-weight: bold;
+    background-color: transparent;
+    color:white;
+    border: none;
+    border-bottom: 4px solid white;
+    border-radius: 1;
+  }
